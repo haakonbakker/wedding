@@ -536,7 +536,7 @@ figure {
 #fh5co-when-where,
 #fh5co-gallery,
 .fh5co-content-section {
-  padding: 7em 0;
+  padding: 3em 0;
   padding-bottom: 0em;
 }
 
@@ -899,7 +899,7 @@ figure {
 
 #footer {
   background: #f6f9f7;
-  padding: 60px 0 40px;
+  padding: 1em;
 }
 
 #footer p {
@@ -1186,12 +1186,12 @@ figure {
 }
 
 .row-bottom-padded-md {
-  padding-bottom: 4em;
+  padding-bottom: 1em;
 }
 
 @media screen and (max-width: 768px) {
   .row-bottom-padded-md {
-    padding-bottom: 2em;
+    padding-bottom: 1em;
   }
 }
 
