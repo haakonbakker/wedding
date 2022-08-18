@@ -668,6 +668,14 @@ figure {
   height: 400px;
 }
 
+.ceremony-bg-mic {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 300px;
+}
+
 .wedding-events .desc {
   padding: 2em;
 }
